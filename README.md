@@ -45,9 +45,9 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   9 mins          ██████████████████████░░░   88.15 %
-YAML       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown   11 mins         ██████████████████████▒░░   89.90 %
+YAML       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
