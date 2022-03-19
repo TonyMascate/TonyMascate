@@ -45,9 +45,12 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   11 mins         ██████████████████████▒░░   89.90 %
-YAML       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+SCSS         1 hr 13 mins    █████████▓░░░░░░░░░░░░░░░   39.30 %
+HTML         54 mins         ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+JavaScript   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Markdown     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+CSS          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
