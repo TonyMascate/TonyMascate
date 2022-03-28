@@ -28,7 +28,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 #### Me contacter !
 - 📧 : ipenywis@gmail.com
-- 📱 : 0602437570
+- 📱 : 06 02 43 75 70
 
 <details>
 <summary>
