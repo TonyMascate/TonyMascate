@@ -27,8 +27,8 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 [![Figma Badge](https://img.shields.io/badge/-Figma-e535ab?style=for-the-badge&labelColor=black&logo=Figma&logoColor=e535ab)](#)
 
 #### Me contacter !
-- 📧 : ipenywis@gmail.com
-- 📱 : 06 02 43 75 70
+- 📧 : tonymascatedev@gmail.com
+- 📱 : +33602437570
 
 <details>
 <summary>
