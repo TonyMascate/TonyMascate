@@ -28,7 +28,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 #### Me contacter !
 - 📧 : tonymascatedev@gmail.com
-- 📱 : [0602437570](+33602437570)
+- 📱 : <a href="tel:0123456789">0123.456.789</a>
 
 <details>
 <summary>
