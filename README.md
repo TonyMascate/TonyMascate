@@ -28,7 +28,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 #### Me contacter !
 - 📧 : tonymascatedev@gmail.com
-- 📱 : [123-456-7890](tel:1234567890)
+- 📱 : 06 02 43 75 70
 
 <details>
 <summary>
