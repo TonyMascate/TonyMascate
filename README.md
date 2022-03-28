@@ -5,7 +5,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 #### Mes réseaux !
 
-[![Linkedin Badge](https://img.shields.io/badge/Tony_Mascate-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-mascate-7b54a6171/) [![Instagram Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tonymascatedev) [![Mail Badge](https://img.shields.io/badge/-tonymascatedev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonymascatedev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Tony_Mascate-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-mascate-7b54a6171/) [![Instagram Badge](https://img.shields.io/badge/-@tonywebdev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tonywebdev) [![Mail Badge](https://img.shields.io/badge/-tonymascatedev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonymascatedev@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-@TonyMascate-success?style=flat&labelColor=success&logo=fiverr&logoColor=white)](https://www.linkedin.com/in/tony-mascate-7b54a6171/)
 
 <!-- TODO: Add last video link -->
