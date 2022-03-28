@@ -44,6 +44,15 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 
 <!--START_SECTION:waka-->
 
+```text
+SCSS         2 hrs 5 mins    ████████████▓░░░░░░░░░░░░   50.79 %
+JavaScript   53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+JSON         35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
