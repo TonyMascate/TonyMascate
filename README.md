@@ -45,9 +45,10 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     28 mins         █████████████████████▒░░░   85.14 %
-Git Config   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JavaScript   45 mins         ██████████████▒░░░░░░░░░░   57.53 %
+Markdown     28 mins         █████████░░░░░░░░░░░░░░░░   36.16 %
+Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
