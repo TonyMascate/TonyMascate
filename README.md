@@ -45,10 +45,10 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 15 mins   ███████████████████████▒░   93.13 %
-CSS          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   4 hrs 52 mins   ███████████████████████▒░   93.05 %
+CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
