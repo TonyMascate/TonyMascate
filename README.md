@@ -45,8 +45,7 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 <!--START_SECTION:waka-->
 
 ```text
-HTML         5 mins          ██████████████████▒░░░░░░   73.52 %
-JavaScript   1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
