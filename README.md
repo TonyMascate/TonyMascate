@@ -44,7 +44,7 @@ C'est un monde fascinant qui nous permet de créer tout ce qui nous passe par la
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
