@@ -11,9 +11,9 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 <!-- TODO: Add last video link -->
 #### Mes infos !
 
-- 🔭 Je travaille actuellement en freelance en remote ou proche de Toulouse
+- 🔭 Actuellement en formation de développeur web et web mobile avec l'ENI
 - ☕ Ma boisson préférée ? le Café !
-- 🤔 Je suis disponible pour tout type de projet Front-End
+- 🤔 Je suis à la recherche d'un stage du 1er avril au 24 mai.
 - 📫 Me contacter : tonymascatedev@gmail.com.
 
 #### Mes technos !
@@ -28,7 +28,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 #### Me contacter !
 - 📧 : tonymascatedev@gmail.com
-- 📱 : 06 02 43 75 70
+- 📱 : 0777849340
 
 <details>
 <summary>
