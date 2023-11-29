@@ -1,6 +1,6 @@
 ## Bonjour, je suis Tony <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Je suis Tony Mascate, développeur web Front-End en freelance.  
+Je suis Tony Mascate, développeur web et web mobile.  
 Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur mon site internet.
 
 #### Mes réseaux !
