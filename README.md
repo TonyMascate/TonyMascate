@@ -13,7 +13,7 @@ Vous trouverez les projets sur lesquels je travaille la plupart de mon temps sur
 
 - 🔭 Actuellement en formation de développeur web et web mobile avec l'ENI
 - ☕ Ma boisson préférée ? le Café !
-- 🤔 Je suis à la recherche d'un stage du 1er avril au 24 mai.
+- 🤔 Je suis à la recherche d'une alternance à partir du 10 mai.
 - 📫 Me contacter : tonymascatedev@gmail.com.
 
 #### Mes technos !
